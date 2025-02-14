@@ -1,4 +1,4 @@
-# 🏥 AI-Powered Healthcare Platform  
+# 🏥 HealthAI (AI-Powered Healthcare Platform)
 
 ## 🚀 Overview  
 Our **AI-Powered Healthcare Platform** leverages advanced AI to revolutionize diagnostics, personalized treatments, and patient care. Designed to enhance accessibility and efficiency in healthcare, this platform offers AI-driven diagnostics, mental health support, doctor consultations, and AI-backed insurance policies.  
