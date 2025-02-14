@@ -42,5 +42,5 @@ The platform follows a **tiered subscription model** with:
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-repo/ai-healthcare.git  
-cd ai-healthcare
+git clone https://github.com/your-repo/Healthcare-AI
+cd Healthcare-AI
