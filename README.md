@@ -34,7 +34,7 @@ The platform follows a **tiered subscription model** with:
 ## 🛠️ Tech Stack  
 - **Frontend:** html,css,js,react.js  
 - **Backend:** Node.js, Express.js  
-- **AI Models:** TensorFlow, PyTorch, OpenAI APIs  
+- **AI Models:** TensorFlow, PyTorch, DeepSeek APIs  
 - **Database:** MongoDB / PostgreSQL  
 - **Cloud & Hosting:** AWS / Firebase / Versel  
 
